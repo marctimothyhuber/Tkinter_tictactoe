@@ -7,7 +7,7 @@ To get a local copy up and running, follow these steps:
 ### Clone the repository to your local machine:
 Copy code
 ```
-git clone https://github.com/heimatbrot/Tkinter_TicTacToe.git
+git clone https://github.com/marctimothyhuber/Tkinter_TicTacToe.git
 ```
 
 ## Technologies Used
